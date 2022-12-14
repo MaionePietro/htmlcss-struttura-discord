@@ -9,17 +9,3 @@ img {
 }
 
 
-/* Sett header */
-header{
-    background-color: rgb(163,211,226);
-}
-.container-top{
-    display: flex;
-}
-.container{
-    align-items: flex-end;
-    background-color: orange;
-    border: 2px dotted black;
-    min-width: 100px;
-    flex-basis: 200px;
-}
