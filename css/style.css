@@ -8,4 +8,22 @@ img {
     max-width: 100%;
 }
 
+/* Sett header */
+header .container{
+    background-color: rgb(163,211,226);
+    padding: 10px;
+}
 
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.col{
+    text-align: center;
+    flex-basis: calc(70%/3);
+    background-color: rgb(213,155,29);
+    border: 2px dotted black;
+}
