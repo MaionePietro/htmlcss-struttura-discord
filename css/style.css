@@ -1,0 +1,25 @@
+/* settaggi generali */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+}
+
+
+/* Sett header */
+header{
+    background-color: rgb(163,211,226);
+}
+.container-top{
+    display: flex;
+}
+.container{
+    align-items: flex-end;
+    background-color: orange;
+    border: 2px dotted black;
+    min-width: 100px;
+    flex-basis: 200px;
+}
